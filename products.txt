@@ -1,0 +1,10 @@
+1 springWater 3
+2 orangeJuice 3
+3 yogurt 3
+4 cola 3
+5 blackTea 3
+6 chips 2
+7 chocolate 2
+8 spicyStrip 2
+9 tissuePaper 2
+10 chickenRolls 2
